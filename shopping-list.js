@@ -20,7 +20,6 @@
   price: 4.55
 }
 ]
-
 var total=0;
 
 myList.forEach(function(items){
